@@ -1,0 +1,4 @@
+#!/bin/bash
+USNAME="id -un" | echo "hello $USNAME"
+
+
