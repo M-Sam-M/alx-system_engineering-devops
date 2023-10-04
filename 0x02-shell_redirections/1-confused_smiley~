@@ -1,0 +1,3 @@
+#!/bin/bash
+confsmiley="(Ôo)"
+echo $confsmiley
